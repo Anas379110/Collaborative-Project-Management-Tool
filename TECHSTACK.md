@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — أداة إدارة المشاريع التشاركية في الوقت الفعلي
+# 🛠️ Technologies Used — Real-Time Collaborative Project Management Tool
 
 - React
 - TypeScript

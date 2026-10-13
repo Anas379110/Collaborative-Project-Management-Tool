@@ -1,21 +1,21 @@
-# أداة إدارة المشاريع التشاركية في الوقت الفعلي
-**Real-Time Collaborative Project Management Tool** · التصنيف: متكامل (Full Stack)
+# Real-Time Collaborative Project Management Tool
+**Real-Time Collaborative Project Management Tool** · Category: Full Stack
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
-> Private client work — the source code is not public.
+This project is for a specific company/client, and the source code is not published.
+Private client work — the source code is not public.
 
-## نبذة عن المشروع
-لوحة Kanban بتعاون WebSocket ودعم العمل بدون إنترنت.
+## Project Overview
+Kanban board with WebSocket-based collaboration and offline support.
 
-## أبرز النقاط
-- Socket.io + Redis Pub/Sub للـ WebSockets الموزعة
-- Offline-First عبر Service Workers + IndexedDB
+## Highlights
+- Socket.io + Redis Pub/Sub for distributed WebSockets
+- Offline-first via Service Workers + IndexedDB
 - AWS EC2 Auto-Scaling + CloudFront CDN
 
-## الدور
-مطوّر Full Stack: الواجهة الأمامية والخدمات الخلفية وقواعد البيانات والنشر.
+## Role
+Full Stack Developer: frontend, backend services, databases, and deployment.
 
-## التقنيات المستخدمة
+## Technologies Used
 React, TypeScript, Node.js, Socket.io, MongoDB, Redis Pub/Sub, Docker, AWS
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
